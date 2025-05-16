@@ -32,7 +32,7 @@ Because:
 ## 🧱 What's Next
 
 We're actively working on:
-- `bulgogi`: the main framework
+- [`bulgogi`](https://github.com/bulgogi-framework/bulgogi) : the main framework
 - Examples and quick-start templates
 - Developer tools and CLI support
 - Friendly docs that make Boost C++ web dev feel... less raw
@@ -42,7 +42,7 @@ We're actively working on:
 > Fork it. Star it. Roast it. Or contribute your own flavor.
 
 <div align="center">
-  <img src="../res/img/Bulgogi.png" alt="bulgogi logo" style="max-width: 100%; max-height: 1024px;">
+  <img src="../res/img/Bulgogi.svg" alt="bulgogi logo" style="max-width: 100%; max-height: 1024px;">
 </div>
 
 **👉 Not BBQ. A framework. Seriously.**
