@@ -3,7 +3,7 @@
 
 ---
 
-[中文](README.zh.md) | [English](README.md) | [우리말](README.uri-mal)
+[中文](README.zh.md) | [English](README.md) | [우리말](README.uri-mal.md)
 
 ## 🍖 Who We Are
 
