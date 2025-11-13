@@ -12,7 +12,7 @@
 写 C++ 就像烤肉：要掌控火候，要精准出手，也要有点热情。
 
 <div align="center">
-  <img src="../res/img/Bulgogi.svg" alt="bulgogi logo" style="max-width: 100%; max-height: 1024px;">
+  <img src="../res/img/Bulgogi.svg" alt="bulgogi logo" style="max-width: 256px;">
 </div>
 
 *为什么图标是一只火烤的大肘子？*  

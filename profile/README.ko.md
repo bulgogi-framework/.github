@@ -25,7 +25,7 @@
 불고기를 먹는 것만큼이나 간단합니다! 🍻
 
 <div align="center">
-  <img src="../res/img/Bulgogi.svg" alt="bulgogi logo" style="max-width: 100%; max-height: 1024px;">
+  <img src="../res/img/Bulgogi.svg" alt="bulgogi logo" style="max-width: 256px;">
 </div>
 
 > 고기는 없습니다.  

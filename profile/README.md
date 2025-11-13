@@ -3,7 +3,7 @@
 
 ---
 
-[中文](README.zh.md) | [English](README.md) | [우리말](README.uri-mal.md)
+[中文](README.zh.md) | [English](README.md) | [우리말](README.ko.md)
 
 ## 🍖 Who We Are
 
@@ -42,7 +42,7 @@ We're actively working on:
 > Fork it. Star it. Roast it. Or contribute your own flavor.
 
 <div align="center">
-  <img src="../res/img/Bulgogi.svg" alt="bulgogi logo" style="max-width: 100%; max-height: 1024px;">
+  <img src="../res/img/Bulgogi.svg" alt="bulgogi logo" style="max-width: 256px;">
 </div>
 
 **👉 Not BBQ. A framework. Seriously.**
